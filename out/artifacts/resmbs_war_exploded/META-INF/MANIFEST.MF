@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: resmbs
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: LSF
+Implementation-Vendor-Id: com.karsha
+Created-By: IntelliJ IDEA
+Build-Jdk: 10
+Main-Class: ${start-class}
+
